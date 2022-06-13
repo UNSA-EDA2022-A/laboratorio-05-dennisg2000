@@ -43,6 +43,7 @@ public class Exercise2 {
     			break;
     		}
     	}
+        
         for(int i=0;i<size;i++) {
     		char temp =stack2.pop();
     		if(temp==')') {
